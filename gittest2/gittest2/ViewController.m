@@ -9,7 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+@property (nonatomic, weak)NSString *arr;
+@property (nonatomic, weak)NSString *arr11;
 @end
 
 @implementation ViewController
